@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+a{
+    color:inherit;
+    text-align: center;
+}
+
+h1,h2{
+    margin: 0;
+    text-align: center;
+}
+
+a{
+    color: white;
+    font-family: fantasy;
+    display: flex;
+    flex-wrap: 20px;
+}
+
+a{
+
+    color: white;
+    font-family: fantasy;
+    display: flex;
+    font-size: 30px;
+}
+
+.panelka{
+    height:250px;
+    width: 400px;
+    background-size: 400px;
+}
